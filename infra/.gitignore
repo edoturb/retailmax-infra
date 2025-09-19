@@ -1,0 +1,9 @@
+# Carpetas y archivos de Terraform a ignorar
+*.tfstate
+*.tfstate.backup
+.terraform/
+crash.log
+terraform.tfvars
+
+# Archivos de sistema Mac
+.DS_Store
