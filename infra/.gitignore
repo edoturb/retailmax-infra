@@ -1,4 +1,5 @@
 # Carpetas y archivos de Terraform a ignorar
+# Carpetas y archivos de Terraform a ignorar
 *.tfstate
 *.tfstate.backup
 .terraform/
